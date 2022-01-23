@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "b8fda23a-ca31-4c8f-a1ae-ba7432f010c0",
+      "name": "sudheer",
+      "email": "sudheerjalli123@gmail.com"
+    },
+    {
+      "id": "01d28a11-e705-46f4-aff4-1ba8ae69629b",
+      "name": "viggy",
+      "email": "vignesh123@gmail.com"
+    },
+    {
+      "id": "8ad330a9-4842-4191-a91a-5ea5b9f54305",
+      "name": "panda",
+      "email": "anuj123@gmail.com"
+    },
+    {
+      "id": "afa59d42-9a0c-42d6-a014-f0b232b7ed9b",
+      "name": "jason",
+      "email": "jason123@gmail.com"
+    },
+    {
+      "id": "26de2747-be55-41b8-8b84-36d6e4623be8",
+      "name": "rohs",
+      "email": "rohan123@gmail.com"
+    },
+    {
+      "id": "4716df53-1ac6-4ed0-9cf2-b71da6666a18",
+      "name": "sudheerjalli1234",
+      "email": "sudheerjalli123@gmail.com"
+    },
+    {
+      "id": "eb88e4fe-7259-496a-b16a-2e35685632d7",
+      "name": "srimathi",
+      "email": "srimathi123@gmail.com"
+    },
+    {
+      "id": "c5de60f8-207c-44e4-aefb-8d5bc933e5d0",
+      "name": "sudheer",
+      "email": "sudheerjalli123@gmail.com"
+    },
+    {
+      "id": "3315004a-7b76-47f4-9416-46e37722be56",
+      "name": "sudheer",
+      "email": "sudheer123@gmail.com"
+    }
+  ]
+}
